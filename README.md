@@ -28,13 +28,13 @@ Green power led (V+) and orange signal led (D1) in the RJ45 connector
 
 
 
-![](Pictures/Adapter right.jpg)
+![](Pictures/Adapter-right.jpg)
 
 
 
 ![](Pictures/Topview.jpg)
 
-<img src="Hardware/PCB_RJ45-Breakout Adapter all.svg" style="zoom:400%;" />
+<img src="Hardware/PCB_RJ45-Breakout-Adapter-all.svg" style="zoom:400%;" />
 
 <img src="Hardware/3D-TopSide.PNG" style="zoom:100%;" />
 
@@ -66,6 +66,6 @@ Resistance of Adapter: TBD
 
 Y- cable Splitter, which interconnect two cables to one new one
 
-![](Pictures/Splitter right.jpg)
+![](Pictures/Splitter-right.jpg)
 
-![](Pictures/Splitter Left.jpg)
+![](Pictures/Splitter-Left.jpg)
