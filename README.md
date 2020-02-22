@@ -68,4 +68,4 @@ Y- cable Splitter, which interconnect two cables to one new one
 
 ![](Pictures/Splitter-right.jpg)
 
-![](Pictures/Splitter-Left.jpg)
+![](Pictures/Splitter-left.jpg)
