@@ -34,7 +34,9 @@ Green power led (V+) and orange signal led (D1) in the RJ45 connector
 
 ![](Pictures/Topview.jpg)
 
-<img src="Hardware/PCB_RJ45-Breakout-Adapter-all.svg" style="zoom:400%;" />
+<img src="Hardware/Schematic_RJ45-Breakout-Adapter.svg?sanitize=true" style="zoom:400%;" />
+
+<img src="Hardware/PCB_RJ45-Breakout-Adapter-all.svg?sanitize=true" style="zoom:400%;" />
 
 <img src="Hardware/3D-TopSide.PNG" style="zoom:100%;" />
 
